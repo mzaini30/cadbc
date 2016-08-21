@@ -4,12 +4,12 @@ Aplikasi untuk mengecek jawaban pilihan ganda, dibuat dengan Python
 
 ## Penggunaan
 
-1. Letakkan file _cadbc_ bersama file yang berisi kunci jawaban dan jawaban-jawaban siswa (lihat file _file.txt_ di folder _contoh_)
+1. Letakkan file _cadbc_ bersama file yang berisi kunci jawaban dan jawaban-jawaban siswa (lihat file _matematika.txt_ di folder _contoh_)
 2. Buka terminal lalu ketikkan _./cadbc_
 
 ## Format Penulisan File Kunci Jawaban Beserta Jawaban
 
-lihat file _file.txt_ di folder _contoh_
+lihat file _matematika.txt_ di folder _contoh_
 
 
 ```

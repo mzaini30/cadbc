@@ -2,16 +2,18 @@
 
 import linecache
 
-output = open("output.txt", "wb")
+print ""
+file = raw_input("Sebutkan file yang memuat kunci dan jawaban: ")
+print ""
+kunci = linecache.getline(file, 1)
+
+fileoutput = file[:-4] + " output.txt"
+output = open(fileoutput, "wb")
 
 def tulis(x):
 	output.write(x + "\n")
 	print x
 
-print ""
-file = raw_input("Sebutkan file yang memuat kunci dan jawaban: ")
-print ""
-kunci = linecache.getline(file, 1)
 tulis("Kunci jawaban: " + kunci)
 listkunci = list(kunci)
 with open(file) as f:
@@ -45,7 +47,7 @@ while (baris < jumlahbaris + 1):
 
 	baris += 1
 
-print "Silahkan buka output.txt \n"
+print "Silahkan buka \""+fileoutput+"\" \n"
 
 # tutup
 linecache.clearcache()
