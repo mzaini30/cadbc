@@ -1,9 +1,6 @@
 #!/usr/bin/python
 
 import linecache
-import sys
-
-# sys.tracebacklimit = 0
 
 output = open("output.txt", "wb")
 
@@ -39,11 +36,11 @@ while (baris < jumlahbaris + 1):
 			jawabanbeda += 1
 			binerhasil += "0"
 
-	tulis(binerhasil)
+	tulis(binerhasil[:-1])
 	tulis("")
-	tulis("Banyak jawaban sama: " + str(jawabansama))
+	tulis("Banyak jawaban sama: " + str(jawabansama - 1))
 	tulis("Banyak jawaban beda: " + str(jawabanbeda))
-	tulis("Nilainya adalah: " + str(jawabansama * 100 / len(listkunci)))
+	tulis("Nilainya adalah: " + str((jawabansama - 1) * 100 / (len(listkunci) - 1)))
 	tulis("\n")
 
 	baris += 1

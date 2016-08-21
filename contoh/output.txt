@@ -3,109 +3,109 @@ Kunci jawaban: cadbccadbccadbccadbccadbccadbccadbccadbccadbccadbc
 zaini
 acadbccadbccadbccadccadbccdbccadbcbccadbccadbccadb
 
-000001000010000100011111110001000001000010000100001
+00000100001000010001111111000100000100001000010000
 
-Banyak jawaban sama: 15
+Banyak jawaban sama: 14
 Banyak jawaban beda: 36
-Nilainya adalah: 29
+Nilainya adalah: 28
 
 
 ari
 dbccadbccadbccadbccadbccadccabccadbcccabccadbccadb
 
-000000000000000000000000000000100001000010000100001
+00000000000000000000000000000010000100001000010000
 
-Banyak jawaban sama: 5
+Banyak jawaban sama: 4
 Banyak jawaban beda: 46
-Nilainya adalah: 9
+Nilainya adalah: 8
 
 
 rahman
 bccadbccadbccadbccadbccadbccadbdbccaccadbccadbccad
 
-000000000000000000000000000000000010000000000000001
+00000000000000000000000000000000001000000000000000
 
-Banyak jawaban sama: 2
+Banyak jawaban sama: 1
 Banyak jawaban beda: 49
-Nilainya adalah: 3
+Nilainya adalah: 2
 
 
 agus
 bccadbccadbccadbccadbccadbccadbdbccaccadbccadbccad
 
-000000000000000000000000000000000010000000000000001
+00000000000000000000000000000000001000000000000000
 
-Banyak jawaban sama: 2
+Banyak jawaban sama: 1
 Banyak jawaban beda: 49
-Nilainya adalah: 3
+Nilainya adalah: 2
 
 
 adit
 bccadbccadbccadbccadbccadbccadbdbccaccadbccadbccad
 
-000000000000000000000000000000000010000000000000001
+00000000000000000000000000000000001000000000000000
 
-Banyak jawaban sama: 2
+Banyak jawaban sama: 1
 Banyak jawaban beda: 49
-Nilainya adalah: 3
+Nilainya adalah: 2
 
 
 syuja
 bccadbccadbccadbccadbccadbccadbdbccaccadbccadbccad
 
-000000000000000000000000000000000010000000000000001
+00000000000000000000000000000000001000000000000000
 
-Banyak jawaban sama: 2
+Banyak jawaban sama: 1
 Banyak jawaban beda: 49
-Nilainya adalah: 3
+Nilainya adalah: 2
 
 
 ali
 bccadbccadbcbcadbccadbccadbccadbdccaccadbccadbccad
 
-000000000000000000000000000000001010000000000000001
+00000000000000000000000000000000101000000000000000
 
-Banyak jawaban sama: 3
+Banyak jawaban sama: 2
 Banyak jawaban beda: 48
-Nilainya adalah: 5
+Nilainya adalah: 4
 
 
 anggi
 bccdbccadadbccadbdadbccadbccadbccadbccccaccadbccab
 
-000001000000000001000000000000000000000100000000001
+00000100000000000100000000000000000000010000000000
 
-Banyak jawaban sama: 4
+Banyak jawaban sama: 3
 Banyak jawaban beda: 47
-Nilainya adalah: 7
+Nilainya adalah: 6
 
 
 yoga
 bccadadbccadbccadbdbccbccadbccadbccaccadbccadbccad
 
-000000000100001000001000100001000010000000000000001
+00000000010000100000100010000100001000000000000000
 
-Banyak jawaban sama: 7
+Banyak jawaban sama: 6
 Banyak jawaban beda: 44
-Nilainya adalah: 13
+Nilainya adalah: 12
 
 
 man
 bccadbccadbccadccaccadbccadbccadbccadbccadbccadbdb
 
-000000000000000100010000100001000010000100001000001
+00000000000000010001000010000100001000010000100000
 
-Banyak jawaban sama: 8
+Banyak jawaban sama: 7
 Banyak jawaban beda: 43
-Nilainya adalah: 15
+Nilainya adalah: 14
 
 
 aku
 cadbccadbccadbccadbccadbccadbccadbccadbccadbccadbc
 
-111111111111111111111111111111111111111111111111111
+11111111111111111111111111111111111111111111111111
 
-Banyak jawaban sama: 51
+Banyak jawaban sama: 50
 Banyak jawaban beda: 0
 Nilainya adalah: 100
 
@@ -113,9 +113,9 @@ Nilainya adalah: 100
 kamu
 cadbccadbccadbccadbccadbccadbccadbccadbccadbccadbb
 
-111111111111111111111111111111111111111111111111101
+11111111111111111111111111111111111111111111111110
 
-Banyak jawaban sama: 50
+Banyak jawaban sama: 49
 Banyak jawaban beda: 1
 Nilainya adalah: 98
 
