@@ -1,0 +1,122 @@
+Kunci jawaban: cadbccadbccadbccadbccadbccadbccadbccadbccadbccadbc
+
+zaini
+acadbccadbccadbccadccadbccdbccadbcbccadbccadbccadb
+
+000001000010000100011111110001000001000010000100001
+
+Banyak jawaban sama: 15
+Banyak jawaban beda: 36
+Nilainya adalah: 29
+
+
+ari
+dbccadbccadbccadbccadbccadccabccadbcccabccadbccadb
+
+000000000000000000000000000000100001000010000100001
+
+Banyak jawaban sama: 5
+Banyak jawaban beda: 46
+Nilainya adalah: 9
+
+
+rahman
+bccadbccadbccadbccadbccadbccadbdbccaccadbccadbccad
+
+000000000000000000000000000000000010000000000000001
+
+Banyak jawaban sama: 2
+Banyak jawaban beda: 49
+Nilainya adalah: 3
+
+
+agus
+bccadbccadbccadbccadbccadbccadbdbccaccadbccadbccad
+
+000000000000000000000000000000000010000000000000001
+
+Banyak jawaban sama: 2
+Banyak jawaban beda: 49
+Nilainya adalah: 3
+
+
+adit
+bccadbccadbccadbccadbccadbccadbdbccaccadbccadbccad
+
+000000000000000000000000000000000010000000000000001
+
+Banyak jawaban sama: 2
+Banyak jawaban beda: 49
+Nilainya adalah: 3
+
+
+syuja
+bccadbccadbccadbccadbccadbccadbdbccaccadbccadbccad
+
+000000000000000000000000000000000010000000000000001
+
+Banyak jawaban sama: 2
+Banyak jawaban beda: 49
+Nilainya adalah: 3
+
+
+ali
+bccadbccadbcbcadbccadbccadbccadbdccaccadbccadbccad
+
+000000000000000000000000000000001010000000000000001
+
+Banyak jawaban sama: 3
+Banyak jawaban beda: 48
+Nilainya adalah: 5
+
+
+anggi
+bccdbccadadbccadbdadbccadbccadbccadbccccaccadbccab
+
+000001000000000001000000000000000000000100000000001
+
+Banyak jawaban sama: 4
+Banyak jawaban beda: 47
+Nilainya adalah: 7
+
+
+yoga
+bccadadbccadbccadbdbccbccadbccadbccaccadbccadbccad
+
+000000000100001000001000100001000010000000000000001
+
+Banyak jawaban sama: 7
+Banyak jawaban beda: 44
+Nilainya adalah: 13
+
+
+man
+bccadbccadbccadccaccadbccadbccadbccadbccadbccadbdb
+
+000000000000000100010000100001000010000100001000001
+
+Banyak jawaban sama: 8
+Banyak jawaban beda: 43
+Nilainya adalah: 15
+
+
+aku
+cadbccadbccadbccadbccadbccadbccadbccadbccadbccadbc
+
+111111111111111111111111111111111111111111111111111
+
+Banyak jawaban sama: 51
+Banyak jawaban beda: 0
+Nilainya adalah: 100
+
+
+kamu
+cadbccadbccadbccadbccadbccadbccadbccadbccadbccadbb
+
+111111111111111111111111111111111111111111111111101
+
+Banyak jawaban sama: 50
+Banyak jawaban beda: 1
+Nilainya adalah: 98
+
+

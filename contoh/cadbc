@@ -1,0 +1,55 @@
+#!/usr/bin/python
+
+import linecache
+import sys
+
+# sys.tracebacklimit = 0
+
+output = open("output.txt", "wb")
+
+def tulis(x):
+	output.write(x + "\n")
+	print x
+
+print ""
+file = raw_input("Sebutkan file yang memuat kunci dan jawaban: ")
+print ""
+kunci = linecache.getline(file, 1)
+tulis("Kunci jawaban: " + kunci)
+listkunci = list(kunci)
+with open(file) as f:
+	jumlahbaris = sum(1 for _ in f)
+
+baris = 3
+while (baris < jumlahbaris + 1):
+	jawaban = linecache.getline(file, baris)
+	bagijawaban = jawaban.split(": ")
+	tulis(bagijawaban[0])
+	tulis(bagijawaban[1])
+	listjawaban = list(bagijawaban[1])
+
+	jawabansama = 0
+	jawabanbeda = 0
+	binerhasil = ""
+	for x in range(len(listkunci)):
+		if listjawaban[x] == listkunci[x]:
+			jawabansama += 1
+			binerhasil += "1"
+		else:
+			jawabanbeda += 1
+			binerhasil += "0"
+
+	tulis(binerhasil)
+	tulis("")
+	tulis("Banyak jawaban sama: " + str(jawabansama))
+	tulis("Banyak jawaban beda: " + str(jawabanbeda))
+	tulis("Nilainya adalah: " + str(jawabansama * 100 / len(listkunci)))
+	tulis("\n")
+
+	baris += 1
+
+print "Silahkan buka output.txt \n"
+
+# tutup
+linecache.clearcache()
+output.close()
