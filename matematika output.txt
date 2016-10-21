@@ -1,35 +1,3 @@
-# cadbc
-
-Iteman killer... (nggak dibatasin cuma 50 responden)
-
-# Syntax
-
-```
-python cadbc.py
-```
-
-# Input (matematika.txt)
-
-```
-cadbccadbccadbccadbccadbccadbccadbccadbccadbccadbc
-
-zaini: acadbccadbccadbccadccadbccdbccadbcbccadbccadbccadb
-ari: dbccadbccadbccadbccadbccadccabccadbcccabccadbccadb
-rahman: bccadbccadbccadbccadbccadbccadbdbccaccadbccadbccad
-agus: bccadbccadbccadbccadbccadbccadbdbccaccadbccadbccad
-adit: bccadbccadbccadbccadbccadbccadbdbccaccadbccadbccad
-syuja: bccadbccadbccadbccadbccadbccadbdbccaccadbccadbccad
-ali: bccadbccadbcbcadbccadbccadbccadbdccaccadbccadbccad
-anggi: bccdbccadadbccadbdadbccadbccadbccadbccccaccadbccab
-yoga: bccadadbccadbccadbdbccbccadbccadbccaccadbccadbccad
-man: bccadbccadbccadccaccadbccadbccadbccadbccadbccadbdb
-aku: cadbccadbccadbccadbccadbccadbccadbccadbccadbccadbc
-kamu: cadbccadbccadbccadbccadbccadbccadbccadbccadbccadbb
-```
-
-# Output (matematika output.txt)
-
-```
 Nama siswa:
 'zaini'
 
@@ -306,5 +274,3 @@ Nilai:
 
 ----------------------------------------------------------------------------------------------------
 
-
-```
